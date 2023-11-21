@@ -1,0 +1,7 @@
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day12\ConAppBankAccount\ConAppBankAccount\bin\Debug\ConAppBankAccount.exe.config
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day12\ConAppBankAccount\ConAppBankAccount\bin\Debug\ConAppBankAccount.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day12\ConAppBankAccount\ConAppBankAccount\bin\Debug\ConAppBankAccount.pdb
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day12\ConAppBankAccount\ConAppBankAccount\obj\Debug\ConAppBankAccount.csproj.AssemblyReference.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day12\ConAppBankAccount\ConAppBankAccount\obj\Debug\ConAppBankAccount.csproj.CoreCompileInputs.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day12\ConAppBankAccount\ConAppBankAccount\obj\Debug\ConAppBankAccount.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day12\ConAppBankAccount\ConAppBankAccount\obj\Debug\ConAppBankAccount.pdb
